@@ -1,5 +1,5 @@
 # Fabric KPI Pipeline Migration
-
+ 
 This project demonstrates the migration of legacy KPI reports into Microsoft Fabric using the medallion architecture (Silver → Gold) and Power BI.
 
 ## Tools Used
