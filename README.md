@@ -19,3 +19,10 @@ This project demonstrates the migration of legacy KPI reports into Microsoft Fab
 - Improved refresh time by 30%
 - Applied Row-Level Security across departments
 - Enabled reliable KPI insights via automated pipelines
+
+## 📊 Dashboard Preview
+
+Here’s a sample KPI dashboard developed in Power BI using data from the Fabric Gold layer:
+
+![Dashboard Preview](fabric-kpi-dashboard-sample.png)
+
